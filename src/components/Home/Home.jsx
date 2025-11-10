@@ -43,11 +43,7 @@ export default function Home() {
                         <div className="absolute inset-0 flex items-center justify-center">
                             <div className="w-96 h-96 bg-linear-to-r from-blue-400 to-purple-400 rounded-full opacity-20 blur-3xl animate-pulse"></div>
                         </div>
-                        <img 
-                            src="https://illustrations.popsy.co/amber/web-development.svg" 
-                            alt="Web Development" 
-                            className="relative mx-auto w-full max-w-2xl"
-                        />
+                       
                     </div>
                 </div>
             </section>

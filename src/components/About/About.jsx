@@ -59,14 +59,8 @@ export default function About() {
                     </div>
 
                     {/* Second Block - Reversed */}
-                    <div className="flex flex-col lg:flex-row-reverse items-center gap-12">
-                        <div className="lg:w-1/2">
-                            <img
-                                src="https://illustrations.popsy.co/amber/team-spirit.svg"
-                                alt="Team Spirit"
-                                className="rounded-2xl shadow-2xl"
-                            />
-                        </div>
+                    <div className="flex flex-col  items-center gap-12">
+                        
                         <div className="lg:w-1/2 space-y-6">
                             <h2 className="text-4xl font-bold text-gray-900">
                                 Our Mission & Vision
